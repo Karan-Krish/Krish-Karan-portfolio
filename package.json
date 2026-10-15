@@ -1,0 +1,23 @@
+{
+  "name": "krish-karan-portfolio",
+  "version": "1.0.0",
+  "description": "Krish Karan's Personal Portfolio Website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karan-Krish/Krish-Karan-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karan-Krish/Krish-Karan-portfolio/issues"
+  },
+  "homepage": "https://github.com/Karan-Krish/Krish-Karan-portfolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
